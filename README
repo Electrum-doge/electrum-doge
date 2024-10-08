@@ -1,39 +1,17 @@
-Electrum-DOGE - lightweight Dogecoin client
+![build](https://img.shields.io/badge/build-passing-brightgreen)
+![coverage](https://img.shields.io/badge/coverage-67%25-orange)
 
-Licence: GNU GPL v3
-Author: Electrum-DOGE contributors & Thomas Voegtlin
-Language: Python
-Homepage: https://electrum-doge.com
+# ElectrumX - Reimplementation of electrum-server
 
+| Licence        | MIT                   |
+|----------------|-----------------------|
+| Language       | Python (>= 3.8)        |
+| Original Author| Neil Booth            |
 
-1. GETTING STARTED
-------------------
+This project is a fork of [kyuupichan/electrumx](https://github.com/kyuupichan/electrumx). The original author dropped support for Bitcoin, which we intend to keep.
 
-To run Electrum from this directory, just do:
+ElectrumX allows users to run their own Electrum server. It connects to your full node and indexes the blockchain, allowing efficient querying of the history of arbitrary addresses. The server can be exposed publicly, and joined to the public network of servers via peer discovery. As of May 2020, a significant chunk of the public Electrum server network runs ElectrumX.
 
-  ./electrum-doge
+## Documentation
 
-If you install Electrum on your system, you can run it from any
-directory:
-
-  sudo python setup.py install
-  electrum-doge
-
-2. HOW OFFICIAL PACKAGES ARE CREATED
-------------------------------------
-
-python mki18n.py
-pyrcc4 icons.qrc -o gui/qt/icons_rc.py
-python setup.py sdist --format=zip,gztar
-
-On Mac OS X:
-
-  # On port based installs
-  sudo python setup-release.py py2app
-
-  # On brew installs
-  ARCHFLAGS="-arch i386 -arch x86_64" sudo python setup-release.py py2app --includes sip
-
-  sudo hdiutil create -fs HFS+ -volname "Electrum-Doge" -srcfolder dist/Electrum-Doge.app dist/electrum-doge-VERSION-macosx.dmg
-
-
+See [readthedocs](https://readthedocs.org).
