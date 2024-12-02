@@ -1,6 +1,6 @@
 # 🌟 Electrum-Doge: Lightweight Dogecoin Wallet
 
-[![License](https://img.shields.io/github/license/Electrum-doge/electrum-doge)](https://github.com/Electrum-doge/electrum-doge/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/Electrum-doge/electrum-doge)](https://github.com/Electrum-doge/electrum-doge/blob/master/LICENCE)
 [![Release](https://img.shields.io/github/v/release/Electrum-doge/electrum-doge)](https://github.com/Electrum-doge/electrum-doge/releases)
 
 **Electrum-Doge** is a secure, lightweight, and efficient wallet for managing your Dogecoin assets. Built on the trusted Electrum framework, it provides fast transactions without downloading the full blockchain. Perfect for Dogecoin enthusiasts who prioritize speed and security.
