@@ -22,9 +22,9 @@
 
 Get the latest version of Electrum-Doge for your operating system from the [Releases](https://github.com/Electrum-doge/electrum-doge/releases) page:
 
-- **Windows**: [Download for Windows](https://github.com/Electrum-doge/electrum-doge/releases/download/v.4.1.5/electrum-dogecoin-win10-setup.exe)
-- **Linux**: [Download for Linux](https://github.com/Electrum-doge/electrum-doge/releases/download/v.4.1.5/AppImage-electrum-dogecoin-QRFIX-01-03-2022.x86_64)
-- **macOS**: [Download for macOS](https://github.com/Electrum-doge/electrum-doge/releases/download/v.4.1.5/electrum-dogecoin-macOS-01-03-2022.dmg)
+- **Windows**: [Download for Windows](https://github.com/Electrum-doge/electrum-doge/releases/download/v.4.1.5.4/electrum-dogecoin-win10-setup.exe)
+- **Linux**: [Download for Linux](https://github.com/Electrum-doge/electrum-doge/releases/download/v.4.1.5.4/AppImage-electrum-dogecoin-QRFIX-01-03-2022.1.x86_64)
+- **macOS**: [Download for macOS](https://github.com/Electrum-doge/electrum-doge/releases/download/v.4.1.5.4/electrum-dogecoin-macOS-01-03-2022.1.dmg)
 
 ---
 
